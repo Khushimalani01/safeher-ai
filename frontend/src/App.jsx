@@ -105,7 +105,7 @@ function App() {
   try {
 
     const response = await axios.post(
-      "http://localhost:5000/api/safety-check",
+      "https://safeher-ai-newj.onrender.com",
       {
         destination,
         travelTime,
