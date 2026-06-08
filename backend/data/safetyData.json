@@ -1,0 +1,38 @@
+[
+  {
+    "area": "dark forest",
+    "risk": "High Risk 🚨",
+    "score": 25,
+    "recommendation": "Avoid travelling here, especially at night."
+  },
+  {
+    "area": "isolated road",
+    "risk": "High Risk 🚨",
+    "score": 35,
+    "recommendation": "Choose crowded roads and share live location."
+  },
+  {
+    "area": "highway",
+    "risk": "Medium Risk ⚠️",
+    "score": 60,
+    "recommendation": "Travel carefully and avoid isolated stops."
+  },
+  {
+    "area": "railway station",
+    "risk": "Medium Risk ⚠️",
+    "score": 65,
+    "recommendation": "Stay alert and avoid travelling alone late night."
+  },
+  {
+    "area": "mall road",
+    "risk": "Low Risk ✅",
+    "score": 88,
+    "recommendation": "Generally safe area with good crowd."
+  },
+  {
+    "area": "market",
+    "risk": "Low Risk ✅",
+    "score": 82,
+    "recommendation": "Safe area but beware of crowd rush."
+  }
+]
